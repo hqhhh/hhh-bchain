@@ -1,2 +1,2 @@
-######## EBPC-uenc
-extendible base public chain
+######## hhh-bchain
+hhh black chain

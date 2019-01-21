@@ -1,7 +1,7 @@
 /*
  * epoll_connect.h
  *
- *  Created on: 2015��2��5��
+ *  Created on: 2019.1.18
  *      Author: Administrator
  */
 
@@ -31,5 +31,7 @@ void free_event_by_index(int index);
 int get_fd_by_event_index(int index);
 time_t get_event_connect_time_by_index(int index);
 char *get_client_addr_by_index(int index);
+
+cout << "hello world!!!" << endl;
 
 #endif /* EPOLL_CONNECT_H_ */

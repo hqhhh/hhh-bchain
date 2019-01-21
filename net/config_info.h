@@ -1,7 +1,7 @@
 /*
  * config_info.h
  *
- *  Created on: 2015Äê2ÔÂ5ÈÕ
+ *  Created on: 2019.1.18
  *      Author: Administrator
  */
 

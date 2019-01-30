@@ -1,7 +1,7 @@
 /*
  * g_net_update.c
  *
- *  Created on: 2015��2��5��
+ *  Created on: 2019.1.30
  *      Author: vae
  */
 /********************** g_net update version 2.0 ***************************/

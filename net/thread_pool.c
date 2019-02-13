@@ -1,7 +1,7 @@
 /*
  * thread_pool.c
  *
- *  Created on: 2015��2��4��
+ *  Created on: 2019.2.13
  *      Author: vae
  */
 #include "thread_pool_global.h"
